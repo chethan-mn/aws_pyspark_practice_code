@@ -1,5 +1,5 @@
 # Write a Python program using Boto3 to list all EMR clusters in your AWS account and print their cluster IDs and statuses.
-# Write a Python script to start a new EMR cluster with a specific configuration and print the cluster ID.
+
 import boto3
 
 # Create an EMR client
